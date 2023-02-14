@@ -7,7 +7,8 @@ var generateBtn = document.querySelector("#generate");
 function generatePassword(){
     var numericCharacters = ['7','4','12'];
     var upperCaseCharacters = ['M','J'];
-    console.log("7,4,12,M,J");
+    var specialCharacters = ['$','%','!'];
+    console.log("7,$,4,%,12,!,M,J");
 
 
 //Password Criteria and length:
@@ -16,7 +17,7 @@ function passwordLength(){
 }
 
 
-   return "7,4,12,M,J";
+   return "7,$,4,%,12,!,M,J";
 }
 //Write password to the #password input
 function writePassword(){

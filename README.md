@@ -16,23 +16,23 @@ This Repo is the Javascript Homework Challenge
 
 ### WHEN I click the button to generate a password Then I am presented with a series of prompts for password criteria:
 
-####
+#### I was a little confused on how to do this, and so I created a password myself and logged it in.
 
 ### WHEN prompted for password criteria THEN I select which criteria to include in the password:
 
-####
+#### I gave my password 3 special character,3 numerical characters and 2 uppercase characters.
 
 ### WHEN prompted for the length of the password choose a length of at least 8 characters and no more than 128 characters:
 
-#### 
+#### I chose a password of 8 characters consisting of numbers,special characters, and uppercase letters.
 
 ### WHEN asked for character types to include in the password THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters:
 
-####
+#### I used 3 character types to generate a password
 
 ### WHEN I answer each prompt, my input should be validated, one or more character types should be selected:
 
-####
+#### 
 
 ### WHEN all prompts are answered THEN a password is generated that matches the selected criteria:
 
