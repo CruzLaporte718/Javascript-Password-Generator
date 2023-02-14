@@ -20,19 +20,15 @@ This Repo is the Javascript Homework Challenge
 
 ### WHEN prompted for password criteria THEN I select which criteria to include in the password:
 
-#### I gave my password 3 special character,3 numerical characters and 2 uppercase characters.
+#### I gave my password 3 special characters, 3 numerical characters and 2 uppercase characters.
 
 ### WHEN prompted for the length of the password choose a length of at least 8 characters and no more than 128 characters:
 
 #### I chose a password of 8 characters consisting of numbers,special characters, and uppercase letters.
 
-### WHEN asked for character types to include in the password THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters:
+### WHEN asked for character types to include in the password THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters WHEN I answer each prompt, my input should be validated, one or more character types should be selected:
 
-#### I used 3 character types to generate a password
-
-### WHEN I answer each prompt, my input should be validated, one or more character types should be selected:
-
-#### 
+#### I used 3 var character types to generate a password and logged it.
 
 ### WHEN all prompts are answered THEN a password is generated that matches the selected criteria:
 
@@ -40,4 +36,9 @@ This Repo is the Javascript Homework Challenge
 
 ### WHEN the password is generated THEN the password is either displayed in an alert or written to the page:
 
-####
+
+
+
+
+#### 
+<img src =./assets/03-javascript-homework-demo.png alt="" >
