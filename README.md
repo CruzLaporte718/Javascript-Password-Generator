@@ -39,6 +39,4 @@ This Repo is the Javascript Homework Challenge
 
 
 
-
-#### 
-<img src =./assets/03-javascript-homework-demo.png alt="" >
+<img src =./assets/03-javascript-homework-demo.png alt=""></img>
